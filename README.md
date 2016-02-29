@@ -1,13 +1,13 @@
 # Omniauth::Openweixin::Oauth2
 
 Omniauth Strategy for https://open.weixin.qq.com/
-
+感谢原作者skinnyworn(微信公众平台Omniauth)和yangsr(微信开放平台Omniauth)
 微信开放平台的Omniauth Strategy
 
 ## Installation
 
 ```ruby
-gem "omniauth-wechat-oauth2", git: 'git@github.com:yangsr/omniauth-wechat-oauth2.git'
+gem "omniauth-wechat-oauth2", git: 'git@github.com:hqsiswiliam/omniauth-wechat-oauth2.git'
 ```
 
 ## Usage
